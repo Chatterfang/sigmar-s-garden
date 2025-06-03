@@ -12,3 +12,14 @@ import tkinter as tk
 #level generator tasks
 #TODO: fully random level gen
 #TODO: figure out logic to minimize impossible levels
+
+board_list = []
+
+def board_list_generator(edge_min, edge_max):
+    height = edge_max
+    for row in range()
+    return
+
+board_list_generator(6, 11)
+
+
